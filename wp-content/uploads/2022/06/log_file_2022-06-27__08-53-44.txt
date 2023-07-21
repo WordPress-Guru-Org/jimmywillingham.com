@@ -1,0 +1,203 @@
+
+---Downloaded files---
+The import files for: Oakland Demo were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://demo-install.wpestate.org
+Data file = /home/wpestate/demo-install.wpestate.org/wp-content/uploads/2022/06/demo-content-import-file_2022-06-27__08-53-44.xml
+Widget file = /home/wpestate/demo-install.wpestate.org/wp-content/uploads/2022/06/demo-widgets-import-file_2022-06-27__08-53-44.json
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /home/wpestate/demo-install.wpestate.org/wp-content/uploads/2022/06/demo-redux-import-file_0-2022-06-27__08-53-44.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+
+First Footer Widget Area : 
+
+Custom HTML - About us - Imported
+
+Second Footer Widget Area : 
+
+Text - Company - Imported
+
+Third Footer Widget Area : 
+
+Text - Quick links - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+
+Dashboard Top Bar Left Widget Area : 
+
+Text - No Title - Imported
+
+Dashboard Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+

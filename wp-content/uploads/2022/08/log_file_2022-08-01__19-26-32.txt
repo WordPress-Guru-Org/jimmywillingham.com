@@ -1,0 +1,376 @@
+
+---Downloaded files---
+The import files for: Oakland Demo were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://jimmywillingham.com
+Data file = /home/jimmnems/public_html/wp-content/uploads/2022/08/demo-content-import-file_2022-08-01__19-26-32.xml
+Widget file = /home/jimmnems/public_html/wp-content/uploads/2022/08/demo-widgets-import-file_2022-08-01__19-26-32.json
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /home/jimmnems/public_html/wp-content/uploads/2022/08/demo-redux-import-file_0-2022-08-01__19-26-32.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Another-PDF-Sample11-6" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Energetic-Certificate-PDF6" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Energetic-Certificate-PDF6" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Energetic-Certificate-PDF6" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+[ERROR] Failed to import "elevator_icon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+[ERROR] Failed to import "elevator_icon" (Media)
+[ERROR] Failed to import "house-svgrepo-com" (Media)
+[ERROR] Failed to import "house2" (Media)
+[ERROR] Failed to import "house3" (Media)
+[ERROR] Failed to import "house4" (Media)
+[ERROR] Failed to import "house5" (Media)
+[ERROR] Failed to import "hopuse6" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+[ERROR] Failed to import "elevator_icon" (Media)
+[ERROR] Failed to import "house-svgrepo-com" (Media)
+[ERROR] Failed to import "house2" (Media)
+[ERROR] Failed to import "house3" (Media)
+[ERROR] Failed to import "house4" (Media)
+[ERROR] Failed to import "house5" (Media)
+[ERROR] Failed to import "hopuse6" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+[ERROR] Failed to import "elevator_icon" (Media)
+[ERROR] Failed to import "house-svgrepo-com" (Media)
+[ERROR] Failed to import "house2" (Media)
+[ERROR] Failed to import "house3" (Media)
+[ERROR] Failed to import "house4" (Media)
+[ERROR] Failed to import "house5" (Media)
+[ERROR] Failed to import "hopuse6" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "AC" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "pool" (Media)
+[ERROR] Failed to import "bath" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "media" (Media)
+[ERROR] Failed to import "gym" (Media)
+[ERROR] Failed to import "kitchen" (Media)
+[ERROR] Failed to import "fireplace" (Media)
+[ERROR] Failed to import "chair_accessible" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "complete shake" (Media)
+[ERROR] Failed to import "appraisal" (Media)
+[ERROR] Failed to import "wifi" (Media)
+[ERROR] Failed to import "water" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "gas-heat" (Media)
+[ERROR] Failed to import "heating" (Media)
+[ERROR] Failed to import "electricity" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "fan" (Media)
+[ERROR] Failed to import "CO" (Media)
+[ERROR] Failed to import "parking" (Media)
+[ERROR] Failed to import "garden" (Media)
+[ERROR] Failed to import "tv" (Media)
+[ERROR] Failed to import "washer" (Media)
+[ERROR] Failed to import "search.svg" (Media)
+[ERROR] Failed to import "elevator_icon" (Media)
+[ERROR] Failed to import "house-svgrepo-com" (Media)
+[ERROR] Failed to import "house2" (Media)
+[ERROR] Failed to import "house3" (Media)
+[ERROR] Failed to import "house4" (Media)
+[ERROR] Failed to import "house5" (Media)
+[ERROR] Failed to import "hopuse6" (Media)
+[ERROR] Failed to import "house-svgrepo-com.svg" (Media)
+[ERROR] Failed to import "house2.svg" (Media)
+[ERROR] Failed to import "house3.svg" (Media)
+[ERROR] Failed to import "house4.svg" (Media)
+[ERROR] Failed to import "house5.svg" (Media)
+[ERROR] Failed to import "hopuse6.svg" (Media)
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+
+First Footer Widget Area : 
+
+Custom HTML - About us - Imported
+
+Second Footer Widget Area : 
+
+Text - Company - Imported
+
+Third Footer Widget Area : 
+
+Text - Quick links - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+
+Dashboard Top Bar Left Widget Area : 
+
+Text - No Title - Imported
+
+Dashboard Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+

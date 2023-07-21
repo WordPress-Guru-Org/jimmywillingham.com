@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Oakland Demo were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://jimmywillingham.com
+Data file = /home/jimmnems/public_html/wp-content/uploads/2022/09/demo-content-import-file_2022-09-21__02-37-05.xml
+Widget file = /home/jimmnems/public_html/wp-content/uploads/2022/09/demo-widgets-import-file_2022-09-21__02-37-05.json
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> /home/jimmnems/public_html/wp-content/uploads/2022/09/demo-redux-import-file_0-2022-09-21__02-37-05.json 
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Widget already exists
+
+First Footer Widget Area : 
+
+Custom HTML - About us - Imported
+
+Second Footer Widget Area : 
+
+Text - Company - Widget already exists
+
+Third Footer Widget Area : 
+
+Text - Quick links - Imported
+
+Fourth Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Widget already exists
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Dashboard Top Bar Left Widget Area : 
+
+Text - No Title - Widget already exists
+
+Dashboard Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+
